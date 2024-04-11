@@ -6,3 +6,4 @@
 ![ss-6](https://github.com/Kasturiprava-Samal/Tax-Calculator/assets/120646034/427a556f-e83f-4180-b6cb-f460e20900cd)
 ![ss-7](https://github.com/Kasturiprava-Samal/Tax-Calculator/assets/120646034/02bc5795-b32b-428d-82f1-b2532d525902)
 #Stpes to install and run the project locally. git clone <https://github.com/Kasturiprava-Samal/Tax-Calculator.git> #My folder structure Fyle-Assignment/ ├── Home.html ├── img/ │ └── image name ├── CSS/ │ └── style.css └── js/ └── script.js After installation go the home.html file and run it .
+#Deployed Link-https://kasturiprava-samal.github.io/Tax-Calculator/home.html
